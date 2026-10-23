@@ -1,0 +1,6 @@
+mytuple = ("apple", "banana", "cherry")
+myit = iter(mytuple)
+print(type(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
